@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BRImo</string>
+    <string name="catatan_keuangan">Catatan\nKeuangan</string>
+    <string name="brizzi">BRIZZI</string>
+    <string name="dompet_digital">Dompet\nDigital</string>
+    <string name="pulsa_data">Pulsa/Data</string>
+    <string name="qris">QRIS</string>
+    <string name="setor_tunai">Setor\nTunai</string>
+    <string name="fast_menu_desc">Fast Menu adalah Fitur untuk memudahkan Anda menggunakan layanan finansial yang sering Anda gunakan.\n\nNomor yang tersimpan untuk transaksi seperti isi pulsa, BRIZZI, dan dompet digital dapat diatur dengan login BRImo terlebih dahulu.</string>
+    <string name="fast_menu_setting_tutor"><![CDATA[Untuk menyesuaikan Fitur pada Fast Menu, anda harus melakukan :\n1. Login BRImo > Akun > Pengaturan > Fast Menu\n2. Pilih Edit > Pilih Fitur yang akan dimasukkan pada Fast Menu\n3. Tekan Simpan untuk menyimpan pengaturan Fast Menu\n4. Masukkan PIN, Fast Menu siap digunakan]]></string>
+    <string name="empty" />
+    <string name="linkaja_dimas">LinkAja Dimas</string>
+    <string name="gopay_dimas">DIMASP GOPAY</string>
+    <string name="spay_dimas">SHOPEEPAY DIMAS</string>
+    <string name="phone_number1">089939483948</string>
+    <string name="phone_number2">083232439849</string>
+    <string name="phone_number3">082239394844</string>
+    <string name="phone_number4">088494939843</string>
+</resources>
